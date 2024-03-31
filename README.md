@@ -1,2 +1,2 @@
 # tea
-git@github.com:logicalparadox/idris.git
+git@github.com:logicalparadox/tgo.git
